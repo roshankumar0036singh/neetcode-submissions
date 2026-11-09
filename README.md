@@ -78,11 +78,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
