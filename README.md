@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -129,4 +132,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
