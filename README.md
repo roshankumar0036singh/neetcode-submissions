@@ -136,4 +136,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
