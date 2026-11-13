@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -144,4 +145,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
