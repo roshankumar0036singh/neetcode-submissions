@@ -154,4 +154,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
