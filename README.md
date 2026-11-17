@@ -162,4 +162,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0185-department-top-three-salaries](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
