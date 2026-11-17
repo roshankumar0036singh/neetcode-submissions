@@ -161,4 +161,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0184-department-highest-salary](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/roshankumar0036singh/neetcode-submissions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
